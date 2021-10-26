@@ -1,7 +1,7 @@
 ## Hi Dev, my name is Rafael 👋. Here's a summary of what I've been working/studying.
 
-- 💻 I currently work as Full Stack Developer with PHP, HTML, CSS, Javascript, JQuery, MySQL e NodeJS.
-- 📖 I am studying: ReactJs, Typescript e NextJs
+- 💻 I currently work as Front-end developer(focused on ReactJS).
+- 📖 I am studying: ReactJs, Typescript e NextJs.
 
 ##
 
